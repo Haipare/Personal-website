@@ -1,1 +1,1 @@
-The following is files are html css code of personal website i created.
+The following are files are html css code of personal website i created.
